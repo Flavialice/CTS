@@ -1,0 +1,4 @@
+TRM0001 Tarom 21
+TRM0004 Tarom 10
+LU00005 Luftansa 20
+LU00002 Luftansa  
